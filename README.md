@@ -6,7 +6,7 @@
 <h3>Custom WordPress Theme Developer | Hand-Coded from Figma | Pixel-Perfect & Fully Responsive Designs</h3>
 
 <p>
-  I build fast, scalable, and pixel-perfect WordPress themes—fully hand-coded with modern frontend technologies.  
+  I build fast, scalable, and pixel-perfect WordPress themes, fully hand-coded with modern frontend technologies.  
   Focused on performance, clean architecture, accessibility, and future-proof maintainability.
 </p>
 
