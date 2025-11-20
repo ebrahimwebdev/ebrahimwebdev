@@ -3,16 +3,16 @@
 <!-- ========================= -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Md. Ebrahim</span></h1>
-<h3 align="center">Custom WordPress Theme Developer • Frontend Engineer • Figma-to-WordPress Specialist</h3>
+<h3 align="center">Custom WordPress Theme Developer | Frontend Engineer | Figma → WordPress Specialist</h3>
 
 <p align="center">
-  I build fast, scalable, and pixel-perfect WordPress themes—fully hand-coded using modern frontend technologies.  
-  Focused on clean architecture, performance, accessibility, and long-term maintainable code.
+  I build fast, scalable, and pixel-perfect WordPress themes—fully hand-coded with modern frontend technologies.  
+  Focused on performance, clean architecture, accessibility, and future-proof maintainability.
 </p>
 
 <br/>
 
----
+<hr style="opacity:0.2;"/>
 
 <!-- ========================= -->
 <!--      CORE EXPERTISE       -->
@@ -21,15 +21,15 @@
 ## 🚀 Core Expertise
 
 - Custom WordPress Theme Development (From scratch)
-- Figma → WordPress (Fully hand-coded workflow)
-- Responsive Frontend Architecture  
+- Figma → WordPress (Hand-coded workflow)
+- Tailwind-based responsive frontend architecture
 - HTML, CSS, Tailwind CSS, Bootstrap
-- PHP for WordPress Development  
-- Elementor Customization & Advanced UI Building  
-- Speed Optimization & Clean Code Standards  
-- Git-based Workflow & Collaboration  
+- PHP for WordPress Theme & Functionality
+- Elementor Custom UI & Theme Integration
+- Speed Optimization & Clean Code Standards
+- Git workflow, scalable structure & collaboration
 
----
+<hr style="opacity:0.2;"/>
 
 <!-- ========================= -->
 <!--      TECH STACK AREA      -->
@@ -49,7 +49,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
+**Primary Stack:** WordPress, PHP, Tailwind, HTML/CSS  
+**Workflow:** Git, component-based development, performance-first approach
+
+<hr style="opacity:0.2;"/>
 
 <!-- ========================= -->
 <!--     WHAT I DELIVER        -->
@@ -57,15 +60,15 @@
 
 ## 📦 What I Deliver
 
-✔ Custom WordPress Business Websites  
-✔ Fully hand-coded portfolio / agency themes  
+✔ Custom WordPress business websites  
+✔ Fully hand-coded portfolio & agency themes  
 ✔ Blog & magazine themes  
-✔ High-conversion landing pages  
-✔ E-commerce ready frontend  
+✔ Modern landing pages  
+✔ Frontend architecture with Tailwind  
 ✔ Full Figma → Responsive UI implementation  
 ✔ Clean, minimal & scalable codebase  
 
----
+<hr style="opacity:0.2;"/>
 
 <!-- ========================= -->
 <!--       GITHUB STATS        -->
@@ -74,15 +77,15 @@
 ## 📊 GitHub Insights
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ebrahimwebdev&show_icons=true&theme=default&hide=issues" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimwebdev&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ebrahimwebdev&show_icons=true&theme=transparent&hide=issues" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimwebdev&layout=compact&theme=transparent" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimwebdev&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebrahimwebdev&theme=transparent" />
 </p>
 
----
+<hr style="opacity:0.2;"/>
 
 <!-- ========================= -->
 <!--     PROFESSIONAL BIO      -->
@@ -90,18 +93,17 @@
 
 ## 👨‍💻 Professional Summary
 
-Detail-oriented Web Developer specializing in building  
-**custom WordPress themes, modern frontend UI, and pixel-accurate designs**.  
-I follow structured development workflows, clean code practices, and maintain full responsiveness across devices.
+WordPress Theme Developer focused on **modern frontend engineering, clean architecture, and pixel-accurate Figma conversions**.  
+I build custom themes from scratch with SEO-friendly markup, scalable structure, and fast performance.
 
 Strong focus on:
 - maintainable architecture  
 - performance optimization  
 - accessibility  
-- SEO-friendly markup  
+- SEO-friendly UI  
 - modern UI patterns  
 
----
+<hr style="opacity:0.2;"/>
 
 <!-- ========================= -->
 <!--      CONTACT & SOCIAL     -->
@@ -112,7 +114,9 @@ Strong focus on:
 - Email: **ebrahimwebdev@gmail.com**  
 - Username (Everywhere): **@ebrahimwebdev**
 
----
+📩 **Open to collaborations & freelance projects — feel free to reach out!**
+
+<hr style="opacity:0.2;"/>
 
 ## 🌐 Connect with Me
 
@@ -123,21 +127,10 @@ Strong focus on:
   <a href="https://facebook.com/ebrahimwebdev">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@ebrahimwebdev">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://hashnode.com/@ebrahimwebdev">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a>
 </p>
 
----
-
-<!-- ========================= -->
-<!--         END AREA          -->
-<!-- ========================= -->
+<hr style="opacity:0.2;"/>
 
 <p align="center">
   🚀 <b>Building modern, scalable & custom WordPress solutions.</b>
 </p>
-
