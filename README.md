@@ -2,10 +2,10 @@
 <!--    PERSONAL INTRO AREA    -->
 <!-- ========================= -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Md. Ebrahim</span></h1>
-<h3 align="center">Custom WordPress Theme Developer | Frontend Engineer | Figma → WordPress Specialist</h3>
+<h1>👋 Hi, I'm <span style="color:#38BDF8;">Md. Ebrahim</span></h1>
+<h3>Custom WordPress Theme Developer | Frontend Engineer | Figma → WordPress Specialist</h3>
 
-<p align="center">
+<p>
   I build fast, scalable, and pixel-perfect WordPress themes—fully hand-coded with modern frontend technologies.  
   Focused on performance, clean architecture, accessibility, and future-proof maintainability.
 </p>
