@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <h1>👋 Hi, I'm <span style="color:#38BDF8;">Md. Ebrahim</span></h1>
-<h3>Custom WordPress Theme Developer | Frontend Engineer | Figma → WordPress Specialist</h3>
+<h3>Custom WordPress Theme Developer | Frontend Engineer | Figma to WordPress Specialist</h3>
 
 <p>
   I build fast, scalable, and pixel-perfect WordPress themes—fully hand-coded with modern frontend technologies.  
@@ -21,7 +21,7 @@
 ## 🚀 Core Expertise
 
 - Custom WordPress Theme Development (From scratch)
-- Figma → WordPress (Hand-coded workflow)
+- Figma to WordPress (Hand-coded workflow)
 - Tailwind-based responsive frontend architecture
 - HTML, CSS, Tailwind CSS, Bootstrap
 - PHP for WordPress Theme & Functionality
